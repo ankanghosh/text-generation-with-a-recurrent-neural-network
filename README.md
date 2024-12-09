@@ -19,7 +19,7 @@ The most important points of reference for the project are as follows.
 2. Andrej Karpathy's blog about the effectiveness of RNNs. Link [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
 # Additional Notes
-1. The dataset is available for download using ConvoKit [here](https://convokit.cornell.edu/documentation/movie.html). Additionally, [this](https://www.cs.cornell.edu/~cristian/Chameleons_in_imagined_conversations.html) link allows downloading the dataset directly. If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
+1. The dataset can be downloaded through ConvoKit using [this](https://convokit.cornell.edu/documentation/movie.html) link. Alternatively, it can be downloaded directly using [this](https://www.cs.cornell.edu/~cristian/Chameleons_in_imagined_conversations.html) link. If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
 3. [Here](https://researchguy.in/text-generation-with-a-recurrent-neural-network-using-tensorflow/) is the blog post covering this work.
 
