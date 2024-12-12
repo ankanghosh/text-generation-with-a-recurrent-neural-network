@@ -2,7 +2,7 @@
 Generating text using the Cornell Movie-Dialogs Corpus dataset with a Recurrent Neural Network (RNN).
 
 # About the project
-This Google Colab notebook demonstrates text generation using a character-based RNN and the Cornell Movie-Dialogs Corpus dataset. The data undergoes preparation and preprocessing before being used to train an RNN model. Training is conducted across Tensor Processing Unit (TPU) cores using TensorFlow’s distributed computing setup for TPUs. Starting with no prior knowledge of English words, the model learns to generate dialogue-like text after training. However, the generated text lacks a high degree of coherence, and potential next steps are identified to enhance the quality and coherence of the outputs.
+This Google Colab notebook demonstrates text generation using a character-based RNN and the Cornell Movie-Dialogs Corpus dataset. The data undergoes preparation and preprocessing before being used to train an RNN-based model. Training is conducted across Tensor Processing Unit (TPU) cores using TensorFlow’s distributed computing setup for TPUs. Starting with no prior knowledge of English words, the model learns to generate dialogue-like text after training. However, the generated text lacks a high degree of coherence, and potential next steps are identified to enhance the quality and coherence of the outputs.
 
 # Tools Used
 Tools and libraries used in this project include convokit, pandas, TensorFlow, and NumPy.
